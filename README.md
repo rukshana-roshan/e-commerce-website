@@ -64,25 +64,6 @@ This project was developed to strengthen frontend development skills and gain pr
 
 ---
 
-## 📂 Project Structure
-
-```text
-e-commerce-website/
-│
-├── index.html
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-├── images/
-│
-└── README.md
-```
-
----
-
 ## 🚀 Getting Started
 
 To run this project locally, follow these simple steps.
@@ -154,7 +135,6 @@ Through this project, I gained experience in:
 - User Interface Design
 - User Experience Principles
 - CSS Animations
-- JavaScript Interactivity
 - Website Layout Design
 - Mobile Optimization
 
